@@ -26,5 +26,5 @@ ans : 1. sum double it is sum of normal values 1 + 2 + 3 ... so it will be the f
 Why does appending 100,000 chars to a String take more than 2X the time to append 50,000
 chars?
 
-ans : from my compute it is 2X times, I think it because everytime that add char to String 
-      that String longer will take long time to compute
+ans : from my compute it isn't 2X times, I think it because everytime that add char to String 
+      that String longer will take long time to compute and maybe it depend to SSD and RAM
